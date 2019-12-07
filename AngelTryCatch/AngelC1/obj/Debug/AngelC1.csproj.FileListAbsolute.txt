@@ -1,0 +1,7 @@
+C:\Users\machi\source\repos\AngelC1\AngelC1\bin\Debug\AngelC1.exe.config
+C:\Users\machi\source\repos\AngelC1\AngelC1\bin\Debug\AngelC1.exe
+C:\Users\machi\source\repos\AngelC1\AngelC1\bin\Debug\AngelC1.pdb
+C:\Users\machi\source\repos\AngelC1\AngelC1\obj\Debug\AngelC1.csprojAssemblyReference.cache
+C:\Users\machi\source\repos\AngelC1\AngelC1\obj\Debug\AngelC1.csproj.CoreCompileInputs.cache
+C:\Users\machi\source\repos\AngelC1\AngelC1\obj\Debug\AngelC1.exe
+C:\Users\machi\source\repos\AngelC1\AngelC1\obj\Debug\AngelC1.pdb

@@ -1,0 +1,10 @@
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\bin\Debug\AngelCEjemplo.exe.config
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\bin\Debug\AngelCEjemplo.exe
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\bin\Debug\AngelCEjemplo.pdb
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.csprojAssemblyReference.cache
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.Form1.resources
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.Properties.Resources.resources
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.csproj.GenerateResource.cache
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.exe
+C:\Users\machi\source\repos\AngelCEjemplo\AngelCEjemplo\obj\Debug\AngelCEjemplo.pdb

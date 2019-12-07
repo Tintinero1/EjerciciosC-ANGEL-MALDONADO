@@ -1,0 +1,10 @@
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.csprojAssemblyReference.cache
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.Form1.resources
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.Properties.Resources.resources
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.csproj.GenerateResource.cache
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.csproj.CoreCompileInputs.cache
+C:\Users\machi\source\repos\AngelC3\AngelC3\bin\Debug\AngelC3.exe.config
+C:\Users\machi\source\repos\AngelC3\AngelC3\bin\Debug\AngelC3.exe
+C:\Users\machi\source\repos\AngelC3\AngelC3\bin\Debug\AngelC3.pdb
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.exe
+C:\Users\machi\source\repos\AngelC3\AngelC3\obj\Debug\AngelC3.pdb

@@ -1,0 +1,15 @@
+C:\Users\machi\source\repos\AngelC4\AngelC4\bin\Debug\AngelC4.exe.config
+C:\Users\machi\source\repos\AngelC4\AngelC4\bin\Debug\AngelC4.exe
+C:\Users\machi\source\repos\AngelC4\AngelC4\bin\Debug\AngelC4.pdb
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.Properties.Resources.resources
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.csproj.GenerateResource.cache
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.exe
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.pdb
+C:\Users\machi\source\repos\AngelC4\AngelC4\bin\Debug\AngelC4.exe.manifest
+C:\Users\machi\source\repos\AngelC4\AngelC4\bin\Debug\AngelC4.application
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.TrustInfo.xml
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.exe.manifest
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.application
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.csprojAssemblyReference.cache
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.csproj.ResolveComReference.cache
+C:\Users\machi\source\repos\AngelC4\AngelC4\obj\Debug\AngelC4.Main.resources
